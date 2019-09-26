@@ -34,4 +34,3 @@ class Scraper
   end
 
 end
-© 2019 GitHub, Inc.
